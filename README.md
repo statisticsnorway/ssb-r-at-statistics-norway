@@ -18,7 +18,7 @@ PX-Web Data by API
 #### SSBtools 
 Statistics Norway's Miscellaneous Tools
 
-- [**GitHub**](https://github.com/olangsrud/SSBtools) 
+- [**GitHub**](https://github.com/statisticsnorway/SSBtools) 
 - [CRAN](https://CRAN.R-project.org/package=SSBtools)
 
 
