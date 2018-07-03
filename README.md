@@ -44,3 +44,8 @@ Easy Interface to the Statistical Disclosure Control Package 'sdcTable'
 Weighting and Estimation for Panel Data with Non-Response
 
 - [CRAN](https://CRAN.R-project.org/package=CalibrateSSB)
+
+
+## See also
+- [Awesome Official Statistics](http://www.awesomeofficialstatistics.org)
+- [CRAN Task View: Official Statistics & Survey Methodology](https://CRAN.R-project.org/view=OfficialStatistics)
