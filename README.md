@@ -43,6 +43,7 @@ Easy Interface to the Statistical Disclosure Control Package 'sdcTable'
 #### CalibrateSSB 
 Weighting and Estimation for Panel Data with Non-Response
 
+- [**GitHub**](https://github.com/statisticsnorway/CalibrateSSB) 
 - [CRAN](https://CRAN.R-project.org/package=CalibrateSSB)
 
 
