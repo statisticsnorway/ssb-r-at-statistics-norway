@@ -36,6 +36,7 @@ Statistics Norway's Miscellaneous Tools
 #### easySdcTable 
 Easy Interface to the Statistical Disclosure Control Package 'sdcTable'
 
+- [**GitHub**](https://github.com/statisticsnorway/easySdcTable) 
 - [CRAN](https://CRAN.R-project.org/package=easySdcTable)
 
 &nbsp;
