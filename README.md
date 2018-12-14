@@ -21,7 +21,6 @@ PX-Web Data by API
 
 
 - [CRAN](https://CRAN.R-project.org/package=PxWebApiData)
-- Note:  The functionality of PxWebApiData will soon bee merged into [pxweb](https://github.com/rOpenGov/pxweb).
 
 &nbsp;
 
