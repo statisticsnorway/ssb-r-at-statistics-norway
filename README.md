@@ -47,6 +47,13 @@ Weighting and Estimation for Panel Data with Non-Response
 - [**GitHub**](https://github.com/statisticsnorway/CalibrateSSB) 
 - [CRAN](https://CRAN.R-project.org/package=CalibrateSSB)
 
+&nbsp;
+
+#### RegSDC 
+Information Preserving Regression-based Tools for Statistical Disclosure Control
+
+- [**GitHub**](https://github.com/olangsrud/RegSDC) 
+- [CRAN](https://CRAN.R-project.org/package=RegSDC)
 
 ## See also
 - [Awesome Official Statistics](http://www.awesomeofficialstatistics.org)
