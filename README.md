@@ -41,6 +41,13 @@ Easy Interface to the Statistical Disclosure Control Package 'sdcTable'
 
 &nbsp;
 
+#### RcmdrPlugin.sampling 
+Tools for sampling in Official Statistical Surveys
+ 
+- [CRAN](https://CRAN.R-project.org/package=RcmdrPlugin.sampling)
+
+&nbsp;
+
 #### CalibrateSSB 
 Weighting and Estimation for Panel Data with Non-Response
 
