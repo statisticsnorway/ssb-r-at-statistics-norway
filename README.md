@@ -7,6 +7,14 @@
 &nbsp;
 
 
+#### klassR
+R package for standard classifications at Statistics Norway
+
+- [**GitHub**](https://github.com/statisticsnorway/klassR) 
+
+&nbsp;
+
+
 #### SmallCountRounding
 Small Count Rounding of Tabular Data
 
