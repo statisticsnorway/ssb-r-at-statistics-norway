@@ -10,7 +10,8 @@
 #### klassR
 R package for standard classifications at Statistics Norway
 
-- [**GitHub**](https://github.com/statisticsnorway/klassR) 
+- [**GitHub**](https://github.com/statisticsnorway/klassR)
+- [CRAN](https://CRAN.R-project.org/package=klassR)
 
 &nbsp;
 
