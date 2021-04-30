@@ -7,6 +7,22 @@
 &nbsp;
 
 
+#### SSBcellKey
+R-package to protect frequency tables by the cell-key method
+
+- [**GitHub**](https://github.com/statisticsnorway/SSBcellKey)
+
+&nbsp;
+
+
+#### GaussSuppression
+R-package to protect tables by suppression using the Gaussian elimination algorithm
+
+- [**GitHub**](https://github.com/statisticsnorway/GaussSuppression)
+
+&nbsp;
+
+
 #### klassR
 R package for standard classifications at Statistics Norway
 
