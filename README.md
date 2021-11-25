@@ -19,6 +19,7 @@ R-package to protect frequency tables by the cell-key method
 R-package to protect tables by suppression using the Gaussian elimination algorithm
 
 - [**GitHub**](https://github.com/statisticsnorway/GaussSuppression)
+- [CRAN](https://CRAN.R-project.org/package=GaussSuppression)
 
 &nbsp;
 
