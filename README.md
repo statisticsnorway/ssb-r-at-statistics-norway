@@ -1,6 +1,14 @@
 
 # R at Statistics Norway
 *****
+In addition to the list below, see also 
+[**the R package fellesr**](https://statisticsnorway.github.io/fellesr/) 
+which has 
+[**this repo on GitHub**](https://github.com/statisticsnorway/fellesr).
+This package is for gerenal R functions which may be useful for general use at Statistics Norway. Much of the documentation is in Norwegian.
+
+*****
+
 
 ## Packages 
 
